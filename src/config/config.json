@@ -1,0 +1,34 @@
+{
+  "development": {
+    "username": "nalhlhst",
+    "password": "PvWPMnIOKgG4Bf3o9N3JVofbD-wqF8lf",
+    "database": "nalhlhst",
+    "host": "tuffi.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false,
+    "define":{
+      "timestamps":true,
+      "underscored":true,
+      "underscoredAll":true
+    }
+  },
+  "test": {
+    "username": "nalhlhst",
+    "password": "PvWPMnIOKgG4Bf3o9N3JVofbD-wqF8lf",
+    "database": "nalhlhst",
+    "host": "tuffi.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false
+  },
+  "production": {
+    "username": "nalhlhst",
+    "password": "PvWPMnIOKgG4Bf3o9N3JVofbD-wqF8lf",
+    "database": "nalhlhst",
+    "host": "tuffi.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false
+  }
+}
